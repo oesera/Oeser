@@ -1,0 +1,3 @@
+help command
+set l1 = 1
+soma = l1 + l1
